@@ -81,6 +81,7 @@ Hi Nerds Please find the consolidated list of cheat sheet links for cracking and
   3) https://github.com/OmarElGabry/DesignPatterns by premaseem
   4) https://github.com/OmarElGabry/DesignPatterns by OmarElGabry
   5) https://github.com/ZoranPandovski/design-patterns by ZoranPandovski
+  6) https://medium.com/@teojunxiong/grasp-assigning-roles-to-classes-371c60711840
   
   System Design 
   
