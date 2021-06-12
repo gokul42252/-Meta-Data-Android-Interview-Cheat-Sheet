@@ -1,6 +1,6 @@
 #  Meta Data for Android Interview Cheat Sheets
 
-All android developers should once go through this links before the interview. This might be helpfull for all those love Android. 
+All android developers should once go through this links before the interview. This might be helpfull for all those who loves Android. 
 
 ![Best-Android-Hacking-Apps-And-Tools-1200x720](https://user-images.githubusercontent.com/7919504/121778728-d780e580-cbb5-11eb-9cad-a1bd1ae874e0.jpeg)
 
