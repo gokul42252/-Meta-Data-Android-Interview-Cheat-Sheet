@@ -6,12 +6,13 @@ All android developers should once go through this links before the interview. T
 
 Hi Nerds Please find the consolidated list of cheat sheet links for cracking android interviews.
 
-Guideline for learning Android.
- 1) https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf from Mindorks.
- 2) https://mindorks.com/android-app-development-online-course from Mindorks.
- 3) https://mindorks.com/android-tutorial from Mindorks.
+  Guideline for learning Android.
+  1) https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf from Mindorks.
+  2) https://mindorks.com/android-app-development-online-course from Mindorks.
+  3) https://mindorks.com/android-tutorial from Mindorks.
 
-Data Structure and algoritham
+  Data Structure and algoritham
+  
   1) https://github.com/ljeng/cheat-sheet
   2) https://github.com/sandyjswl/data-structures-cheat-sheet
   3) https://github.com/TusharKukra/CheatSheetDS
@@ -20,8 +21,8 @@ Data Structure and algoritham
   6) https://github.com/lichenma/AlgorithmsDataStructures-CheatSheet
   
 
-<B>Cheat sheet links.</B>
   Android
+  
   1) https://github.com/anitaa1990/Android-Cheat-sheet by anitaa1990
   2) https://github.com/MindorksOpenSource/android-interview-questions from Mindorks.
   3) https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers by vamsitallapudi
