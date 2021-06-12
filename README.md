@@ -1,7 +1,10 @@
 # -Meta-Data-Android-Interview-Cheat-Sheets
-Meta data for Android Interview
 
-Hi Folks Please find the consolidated list of cheat sheetlinks for cracking android interview.
+All android developers should once go through this links before the interview. This might be helpfull for all those love Android. 
+
+![Best-Android-Hacking-Apps-And-Tools-1200x720](https://user-images.githubusercontent.com/7919504/121778728-d780e580-cbb5-11eb-9cad-a1bd1ae874e0.jpeg)
+
+Hi Nerds Please find the consolidated list of cheat sheet links for cracking android interviews.
 
 Guideline for learning Android.
  1) https://medium.com/mindorks/android-development-learning-path-2020-edition-3f464ac56dbf from Mindorks.
@@ -15,7 +18,6 @@ Data Structure and algoritham
   4) https://github.com/MMortaga/DataStructures-and-Algorithms-Cheat-Sheet
   5) https://github.com/SaurabhCR7/DS-And-Algorithms-Cheat-Sheet
   6) https://github.com/lichenma/AlgorithmsDataStructures-CheatSheet
-  7) 
   
 
 <B>Cheat sheet links.</B>
@@ -43,6 +45,8 @@ Data Structure and algoritham
   1) https://github.com/android/architecture-components-samples 
   2) https://github.com/erikjhordan-rey/Android-Architecture-Components-Kotlin
    
+   ![kotlin_vs_java](https://user-images.githubusercontent.com/7919504/121778809-4f4f1000-cbb6-11eb-8984-d1413633a420.jpg)
+
    
   Kotlin
   
@@ -77,4 +81,14 @@ Data Structure and algoritham
   4) https://github.com/OmarElGabry/DesignPatterns by OmarElGabry
   5) https://github.com/ZoranPandovski/design-patterns by ZoranPandovski
   
+  System Design 
   
+  1) https://github.com/codersguild/System-Design
+  2) https://github.com/checkcheckzz/system-design-interview
+  3) https://github.com/shashank88/system_design
+  4) https://github.com/DreamOfTheRedChamber/system-design-interviews
+  5) https://github.com/Sm2927/System-design-cheat-sheet
+  6) https://github.com/kkufieta/system-design-interview
+  7) https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
+Hope this will be helpfull. Thankyou <3 
