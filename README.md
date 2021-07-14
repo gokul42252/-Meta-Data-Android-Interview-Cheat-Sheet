@@ -40,6 +40,7 @@ Hi Nerds Please find the consolidated list of cheat sheet links for cracking and
   14) https://medium.com/tradecraft-traction/speak-intellegently-about-your-app-anatomy-material-design-glossary-c6769de0eb63#.wxdczpb6e 
   15) https://github.com/b-mueller/android_app_security_checklist 
   16) https://www.vogella.com/tutorials/GradleTutorial/article.html 
+  17) https://www.interviewbit.com/android-interview-questions/
 
   Android Architecture Components
   
